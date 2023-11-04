@@ -1,0 +1,73 @@
+.red-border {
+    border: 0.1rem solid red;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 5rem;
+}
+
+.helement {
+    margin-right: 5rem;
+    margin-left: 10rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+    margin-bottom: 2rem;
+
+}
+
+.contentcolumn {
+    padding-top: 5rem;
+}
+
+
+.contentsquare {  
+    padding-top: 5rem; 
+    padding-bottom: 5rem;
+    padding-right: 5rem;
+    padding-left: 5rem; 
+}
+
+.main-card {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.profile-name {
+    display: grid;
+    grid-template-columns: 5rem 30%;
+   
+}
+
+.profile {
+    width: 5rem;
+    height: 5rem;
+}
+
+.name {
+    width: 7rem;
+    height: 1rem; 
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+
+.unfriend {
+    width: 7rem;
+    height: 1rem;
+    margin-top: 1rem;
+}
